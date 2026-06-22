@@ -2,7 +2,7 @@
   "name": "manim",
   "description": "Expert guide for Manim math animations. Covers both ManimGL (3Blue1Brown's original) and Manim Community — which share a name but differ in API, CLI, and idioms. Helps write scenes from scratch, debug broken code, and navigate version-specific patterns like camera control, updaters, and LaTeX setup.",
   "author": {
-    "name": "hartnady@gmail.com"
+    "name": "mark@xcloudconsulting.co.uk"
   },
   "category": "education",
   "version": "1.0.0"
