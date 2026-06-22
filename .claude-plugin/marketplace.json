@@ -1,9 +1,9 @@
 {
-  "name": "hartnady-plugins",
-  "description": "Claude Code plugins by Mark Hartnady — Manim animation skills and more.",
+  "name": "xcloud-plugins",
+  "description": "Claude Code plugins by X-Cloud Ltd — Manim animation skills and more.",
   "owner": {
     "name": "Mark Hartnady",
-    "email": "hartnady@gmail.com"
+    "email": "mark@xcloudconsulting.co.uk"
   },
   "plugins": [
     {
@@ -13,7 +13,7 @@
       "category": "education",
       "author": {
         "name": "Mark Hartnady",
-        "email": "hartnady@gmail.com"
+        "email": "mark@xcloudconsulting.co.uk"
       }
     }
   ]
