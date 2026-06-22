@@ -1,8 +1,8 @@
 {
   "name": "hartnady-plugins",
-  "description": "Claude Code plugins by hartnady — Manim animation skills and more.",
+  "description": "Claude Code plugins by Mark Hartnady — Manim animation skills and more.",
   "owner": {
-    "name": "hartnady",
+    "name": "Mark Hartnady",
     "email": "hartnady@gmail.com"
   },
   "plugins": [
@@ -12,7 +12,7 @@
       "description": "Expert guide for Manim math animations. Covers both ManimGL (3Blue1Brown's original) and Manim Community — which share a name but differ in API, CLI, and idioms.",
       "category": "education",
       "author": {
-        "name": "hartnady",
+        "name": "Mark Hartnady",
         "email": "hartnady@gmail.com"
       }
     }
